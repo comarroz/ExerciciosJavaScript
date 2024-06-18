@@ -1,0 +1,26 @@
+body{
+
+    background-color:#050404;/* cor do plano de fundo*/
+    color:rgb(2, 2, 2); /*cor da fonte */
+    font-size: 23px; /* tamanhp da fonte*/
+    margin: 5%; /*Margem em relação a tela*/
+    background-image: url("../IMAGENS/skull.jpg");
+    text-align: center;
+  
+    
+   
+}
+
+.Exercicios, li{
+    color: rgb(10, 10, 10);
+    list-style-type: none;/* Remover as Bolinhas de Tópicos */
+    display: inline;/*Transformar coluna em linhas*/
+   
+    padding: 15px;
+    background-color: rgb(211, 181, 98);
+    font: 10%;
+   
+    font-weight: bold;
+    
+} 
+
