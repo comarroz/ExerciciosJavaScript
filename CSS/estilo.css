@@ -1,11 +1,12 @@
 body{
 
     background-color:#050404;/* cor do plano de fundo*/
-    color:rgb(2, 2, 2); /*cor da fonte */
+    color:rgb(0, 0, 0); /*cor da fonte */
     font-size: 23px; /* tamanhp da fonte*/
     margin: 5%; /*Margem em relação a tela*/
     background-image: url("../IMAGENS/skull.jpg");
     text-align: center;
+    font-weight: bold;
   
     
    
@@ -23,4 +24,6 @@ body{
     font-weight: bold;
     
 } 
+
+
 
